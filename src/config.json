@@ -1,0 +1,16 @@
+{
+  "services": [
+    {
+      "name": "ERP",
+      "url": "https://erp-api-stage-52421872894.us-central1.run.app/v3/api-docs",
+      "directory": "erp",
+      "prefix": "api-docs-erp-data"
+    },
+    {
+      "name": "Inova",
+      "url": "https://cursos-livres-stage-52421872894.us-central1.run.app/api/v3/api-docs",
+      "directory": "inova",
+      "prefix": "api-docs-inova-data"
+    }
+  ]
+}
